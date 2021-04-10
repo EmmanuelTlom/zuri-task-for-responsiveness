@@ -354,6 +354,7 @@ div.footer-textarea {
 }
 
 textarea {
+  min-width: 51%;
   width: 51%;
   height: 150px;
   padding: 0.5rem;
